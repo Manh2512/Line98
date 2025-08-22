@@ -7,3 +7,6 @@ Assets/testing.cs
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+
+.DS_Store
+Thumbs.db
